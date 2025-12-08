@@ -1,0 +1,31 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  .navbar {
+    background-color: #1f1f1f !important;
+  }
+  
+  .footer {
+    background-color: #1f1f1f;
+    padding: 20px 0;
+    text-align: center;
+    color: #aaa;
+    margin-top: 40px;
+  }
+  
+  .column-box {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  }
+  
+  a.nav-link {
+    color: #ccc !important;
+  }
+  a.nav-link:hover {
+    color: #fff !important;
+  }
+  
